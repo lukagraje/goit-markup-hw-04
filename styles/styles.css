@@ -163,7 +163,7 @@ align-items: center;
     background-color: var(--brand-color1);
     height: 600px;
     max-width: 1440px;
-    background-image: linear-gradient(hsl(237 18% 22% / 0.7), hsl(237 18% 22% / 0.7)), url(/images/image17.jpg);
+    background-image: linear-gradient(hsl(237 18% 22% / 0.7), hsl(237 18% 22% / 0.7)), url(../images/image17.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
